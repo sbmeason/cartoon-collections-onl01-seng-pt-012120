@@ -6,13 +6,14 @@ def roll_call_dwarves(dwarves)
 end
 end
 
-nu_array = []
+def summon_captain_planet(array)
+new_array = []
   i = 0 
   while i < array.length 
-    nu_array << array[i].capitalize + "!"
+    new_array << array[i].capitalize + "!"
     i += 1 
   end 
-  nu_array
+  new_array
 end
 
 
