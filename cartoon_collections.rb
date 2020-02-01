@@ -6,7 +6,7 @@ def roll_call_dwarves(dwarves)
 end
 end
 
-def summon_captain_planet(planeteer_calls)
+def summon_captain_planet(veggies)
   veggies = [carrot cucumber pepper]
   
  
