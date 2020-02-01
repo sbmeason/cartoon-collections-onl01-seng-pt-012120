@@ -7,6 +7,8 @@ end
 end
 
 def summon_captain_planet(planeteer_calls)
+  veggies = [carrot cucumber pepper]
+  
  
 end
 
